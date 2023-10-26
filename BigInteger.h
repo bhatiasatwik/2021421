@@ -1,6 +1,10 @@
 #ifndef BigInteger_H_INCLUDED
 #define BigInteger_H_INCLUDED
 
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 typedef struct node 
 {
     int data;
